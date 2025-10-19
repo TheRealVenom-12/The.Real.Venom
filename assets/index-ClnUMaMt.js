@@ -17973,7 +17973,7 @@ const a0 = x.createContext(void 0)
                             style: {
                                 animationDelay: "0.3s"
                             },
-                            children: "Discord Bot & Website Developer"
+                            children: "TheRealVenom & Website Developer"
                         }), p.jsx(Vr, {
                             className: "absolute -bottom-4 -right-4 w-6 h-6 text-blue-400 animate-pulse",
                             style: {
@@ -17989,7 +17989,7 @@ const a0 = x.createContext(void 0)
                             className: "text-xl text-slate-200 leading-relaxed max-w-3xl mx-auto",
                             children: ["Hello, I am ", p.jsx("span", {
                                 className: "gradient-text font-semibold",
-                                children: "Omar"
+                                children: "kiro"
                             }), ", nicknamed ", p.jsx("span", {
                                 className: "gradient-text font-semibold",
                                 children: "TheRealVenom"
@@ -18163,7 +18163,7 @@ const a0 = x.createContext(void 0)
                         })
                     }), p.jsx("h1", {
                         className: "text-8xl md:text-[14rem] font-montserrat font-black mb-12 modern-text-gradient leading-none",
-                        children: "Omar"
+                        children: "kiro"
                     }), p.jsxs("div", {
                         className: "relative mb-12",
                         children: [p.jsx("div", {
@@ -19072,7 +19072,7 @@ const a0 = x.createContext(void 0)
 
 انتظرو لبرايم سبايدر ستور
 
-Fox Store On Top`
+kiro On Top`
                                 })
                             })]
                         }), p.jsxs("div", {
@@ -19094,10 +19094,10 @@ Fox Store On Top`
                                     })]
                                 }), p.jsx("h3", {
                                     className: "text-4xl font-montserrat font-bold text-white mb-4 group-hover:text-cyan-400 transition-colors duration-300",
-                                    children: "FOX HOSTING"
+                                    children: "TheRealVenom"
                                 }), p.jsx("p", {
                                     className: "text-cyan-400 text-xl font-semibold",
-                                    children: "Arabic Community Server"
+                                    children: "Venom Community Server"
                                 }), p.jsxs("div", {
                                     className: "flex items-center justify-center gap-1 mt-4 text-slate-300",
                                     children: [p.jsx(Rl, {
@@ -19189,19 +19189,19 @@ Fox Store On Top`
     }
     ;
     return p.jsx("footer", {
-        className: "bg-fox-darker border-t border-Fox-cyan/20",
+        className: "bg-TheRealVenom-darker border-t border-TheRealVenom-cyan/20",
         children: p.jsx("div", {
             className: "section-padding py-8",
             children: p.jsxs("div", {
                 className: "max-w-6xl mx-auto flex flex-col md:flex-row justify-between items-center",
                 children: [p.jsx("div", {
-                    className: "text-fox-light/60 mb-4 md:mb-0",
-                    children: "© 2025 Fox. All rights reserved."
+                    className: "text-TheRealVenom-light/60 mb-4 md:mb-0",
+                    children: "© 2025 TheRealVenom. All rights reserved."
                 }), p.jsxs("div", {
                     className: "flex items-center gap-6",
                     children: [p.jsx("a", {
                         href: "#",
-                        className: "text-fox-light/60 hover:text-fox-cyan transition-colors duration-300",
+                        className: "text-TheRealVenom-light/60 hover:text-fox-cyan transition-colors duration-300",
                         children: "Privacy Policy"
                     }), p.jsx("a", {
                         href: "#",
