@@ -18029,7 +18029,7 @@ const a0 = x.createContext(void 0)
                             animationDelay: "1.2s"
                         },
                         children: p.jsx("a", {
-                            href: "https://discord.com/users/Mahmow600k",
+                            href: "https://discord.com/users/vm__k",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className: "group w-20 h-20 glass-effect rounded-3xl flex items-center justify-center transition-all duration-500 hover:bg-cyan-500 hover:scale-125 hover:shadow-2xl hover:shadow-cyan-500/50 border border-cyan-400/20 hover:border-cyan-400 hover:rotate-12",
@@ -18236,7 +18236,7 @@ const a0 = x.createContext(void 0)
                             animationDelay: "1.2s"
                         },
                         children: p.jsx("a", {
-                            href: "https://discord.com/users/1359216376501239878",
+                            href: "https://discord.com/users/1240656132578480179",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className: "group w-24 h-24 modern-glass rounded-3xl flex items-center justify-center transition-all duration-500 hover:scale-125 hover:-translate-y-3 modern-glow",
@@ -19038,7 +19038,7 @@ const a0 = x.createContext(void 0)
                                         className: "w-5 h-5"
                                     }), n ? "Hide Details" : "Show Details"]
                                 }), p.jsxs("a", {
-                                    href: "https://discord.gg/rZzt4j6SZ3",
+                                    href: "https://discord.gg/Mva5zYs8dj",
                                     target: "_blank",
                                     rel: "noopener noreferrer",
                                     className: "px-8 py-4 border-2 border-cyan-400 text-cyan-400 font-semibold rounded-2xl transition-all duration-500 hover:bg-cyan-400 hover:text-slate-900 hover:scale-110 hover:-translate-y-1 flex items-center justify-center gap-3 text-lg hover:shadow-2xl hover:shadow-cyan-400/30",
@@ -19050,27 +19050,46 @@ const a0 = x.createContext(void 0)
                                 className: "glass-effect rounded-2xl p-8 border border-cyan-400/30 animate-fade-in-up",
                                 children: p.jsx("pre", {
                                     className: "text-slate-200 whitespace-pre-wrap text-base leading-relaxed font-mono hover:text-white transition-colors duration-300",
-                                    children: `افضل سيرفر ستور مصري
+                                    children: `**
+- السلام عليكم ورحمة الله وبركاته
 
-1- نايترو وفيزا 
-2- سيرفرات للبيع 
-3- متوفر شحن العاب 
-4- عروض باقوي خصومات
-5- وكل شئ ما يخص الستور 
-6- اكونتات ديسكورد 
-وتيكتوك 
-7- سيرفر تاج خاص بيك 
-8- ادوات بوستات 
-9- ادوات توكنات 
-10- ادوات نسخ سيرفرات 
+ 
+ ::  ``القانون الاول ``: يمنع الشتم او القذف في اي روم كتابي او صوتي
+ 
+:: ``القانون الثاني`` : يمنع التكلم بالامور الاباحية او التلميح لها باي شكل 
 
-هل سيرفر الوحيد بس لا
+:: ``القانون الثالث ``: ممنوع التكلم بالامور الدينية او السياسية 
 
-يوجد حقوق لكوميونتي وستور جميع المجتمعات وفروع
+:: ``القانون الرابع ``: يمنع التكلم او ذكر امور تخص الشواذ 
 
-واي حد هيدخل يقول جاي من وصف ليه خصم %20 
+:: ``القانون الخامس ``: يمنع تكرار الكلام (سبام) 
 
-انتظرو لبرايم سبايدر ستور
+:: ``القانون السادس ``: يمنع استخدام الاوامر إلا بالروم المخصص لها 
+
+:: ``القانون السابع ``: يمنع التدخل بالامور الادارية 
+
+:: ``القانون الثامن ``: يمنع التكلم بامور الغزل او الحب 
+
+:: ``القانون التاسع ``: يجب على الجميع احترام الاخر 
+
+:: ``القانون العاشر ``: ممنوع افتعال المشاكل في الشات العام
+
+:: ``القانون الحادي عشر ``: ممنوع منشنة الادارة العليا من الأعضاء <@&>  الا من قبل مشرفين الشات
+
+:: ``القانون الثاني عشر ``: ممنوع البيع والشراء سواء داخل الخادم او في الخاص
+
+:: ``القانون الثالث عشر ``: ممنوع انتحال شخصية يوتيوبر او اداري بأي شكل من الاشكال
+
+:: ``القانون الرابع عشر `` : يمنع التكلم عن اي سيرفر ليس له علاقة بخادمنا
+
+::  ``القانون الخامس عشر `` : يمنع تعدد الحسابات في السيرفر
+**
+
+||@everyone @here ||
+لو حد من الإدارة رخم عليك افتح تكت و قول
+ونا هتصرف معاه
+
+For __@everyone__
 
 kiro On Top`
                                 })
@@ -19128,11 +19147,46 @@ kiro On Top`
                                 className: "glass-effect rounded-2xl p-8 border border-cyan-400/30 animate-fade-in-up",
                                 children: p.jsx("p", {
                                     className: "text-slate-200 text-base leading-relaxed hover:text-white transition-colors duration-300",
-                                    children: `سيرفر مجتمع عربي يوفر لك المتعة وكل شيء، يمكنك مقابلة أصدقاء جدد! 
+                                    children: `**
+- السلام عليكم ورحمة الله وبركاته
 
-توجد أنشطة للتفاعل والمتعة، وكل شيء تعتقد أنه جميل يا عسل!
+ 
+ ::  ``القانون الاول ``: يمنع الشتم او القذف في اي روم كتابي او صوتي
+ 
+:: ``القانون الثاني`` : يمنع التكلم بالامور الاباحية او التلميح لها باي شكل 
 
-انضم للسيرفر الآن وكن جزءاً من عائلتنا`
+:: ``القانون الثالث ``: ممنوع التكلم بالامور الدينية او السياسية 
+
+:: ``القانون الرابع ``: يمنع التكلم او ذكر امور تخص الشواذ 
+
+:: ``القانون الخامس ``: يمنع تكرار الكلام (سبام) 
+
+:: ``القانون السادس ``: يمنع استخدام الاوامر إلا بالروم المخصص لها 
+
+:: ``القانون السابع ``: يمنع التدخل بالامور الادارية 
+
+:: ``القانون الثامن ``: يمنع التكلم بامور الغزل او الحب 
+
+:: ``القانون التاسع ``: يجب على الجميع احترام الاخر 
+
+:: ``القانون العاشر ``: ممنوع افتعال المشاكل في الشات العام
+
+:: ``القانون الحادي عشر ``: ممنوع منشنة الادارة العليا من الأعضاء <@>  الا من قبل مشرفين الشات
+
+:: ``القانون الثاني عشر ``: ممنوع البيع والشراء سواء داخل الخادم او في الخاص
+
+:: ``القانون الثالث عشر ``: ممنوع انتحال شخصية يوتيوبر او اداري بأي شكل من الاشكال
+
+:: ``القانون الرابع عشر `` : يمنع التكلم عن اي سيرفر ليس له علاقة بخادمنا
+
+::  ``القانون الخامس عشر `` : يمنع تعدد الحسابات في السيرفر
+**
+
+||@everyone @here ||
+لو حد من الإدارة رخم عليك افتح تكت و قول
+ونا هتصرف معاه
+
+For __@everyone__
                                 })
                             })]
                         })]
