@@ -19108,7 +19108,9 @@ kiro On Top`
                                 className: "glass-effect rounded-2xl p-8 border border-cyan-400/30 animate-fade-in-up",
                                 children: p.jsx("p", {
                                     className: "text-slate-200 text-base leading-relaxed hover:text-white transition-colors duration-300",
-                                    children: `السلام عليكم ورحمه الله وبركاته
+                                    children: `- السلام عليكم ورحمة الله وبركاته
+
+kiro On Top`
                                 })
                             })]
                         })]
