@@ -18177,7 +18177,7 @@ const a0 = x.createContext(void 0)
                                 color: "hsl(var(--modern-text-primary))",
                                 animationDelay: "0.3s"
                             },
-                            children: "TheRealVenom & Website Developer"
+                            children: "Discord Bot & Website Developer"
                         }), p.jsx("div", {
                             className: "w-32 h-1 mx-auto rounded-full",
                             style: {
@@ -18196,7 +18196,7 @@ const a0 = x.createContext(void 0)
                             },
                             children: ["Hello, I am ", p.jsx("span", {
                                 className: "modern-text-gradient font-bold",
-                                children: "Omar"
+                                children: "kiro"
                             }), ", nicknamed ", p.jsx("span", {
                                 className: "modern-text-gradient font-bold",
                                 children: "TheRealVenom"
