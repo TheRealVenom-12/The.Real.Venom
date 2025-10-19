@@ -18383,7 +18383,7 @@ const a0 = x.createContext(void 0)
                                 className: "text-slate-200 text-xl leading-relaxed mb-6",
                                 children: ["Hello, I am ", p.jsx("span", {
                                     className: "text-cyan-400 font-semibold",
-                                    children: ""
+                                    children: "Dev"
                                 }), ", nicknamed ", p.jsx("span", {
                                     className: "text-cyan-400 font-semibold",
                                     children: "TheRealVenom"
