@@ -19265,7 +19265,7 @@ const a0 = x.createContext(void 0)
                     }, {
                         icon: Ml,
                         title: "Community Members",
-                        value: "500+",
+                        value: "300+",
                         description: "Active users across all platforms"
                     }, {
                         icon: Ed,
@@ -19375,3 +19375,4 @@ const a0 = x.createContext(void 0)
     })
 });
 jh(document.getElementById("root")).render(f.jsx(Y2, {}));
+
