@@ -18182,7 +18182,7 @@ const a0 = x.createContext(void 0)
                         })
                     }), f.jsx("h1", {
                         className: "text-9xl md:text-[16rem] font-montserrat font-black mb-16 modern-text-gradient leading-none tracking-tighter transform hover:scale-105 transition-all duration-700 cursor-default",
-                        children: "kiro"
+                        children: "TheRealVenom"
                     }), f.jsxs("div", {
                         className: "relative mb-12",
                         children: [f.jsx("div", {
@@ -19375,4 +19375,5 @@ const a0 = x.createContext(void 0)
     })
 });
 jh(document.getElementById("root")).render(f.jsx(Y2, {}));
+
 
