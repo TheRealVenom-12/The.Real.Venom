@@ -17962,7 +17962,7 @@ const a0 = x.createContext(void 0)
                         className: "text-8xl md:text-[12rem] font-montserrat font-bold mb-8 animate-scale-in",
                         children: f.jsx("span", {
                             className: "text-shimmer",
-                            children: "kiro"
+                            children: "Venom"
                         })
                     }), f.jsxs("div", {
                         className: "relative mb-10",
@@ -17989,7 +17989,7 @@ const a0 = x.createContext(void 0)
                             className: "text-xl text-slate-200 leading-relaxed max-w-3xl mx-auto",
                             children: ["Hello, I am ", f.jsx("span", {
                                 className: "gradient-text font-semibold",
-                                children: "TheRealVenom"
+                                children: "kiro"
                             }), ", nicknamed ", f.jsx("span", {
                                 className: "gradient-text font-semibold",
                                 children: "TheRealVenom"
@@ -19375,6 +19375,7 @@ const a0 = x.createContext(void 0)
     })
 });
 jh(document.getElementById("root")).render(f.jsx(Y2, {}));
+
 
 
 
